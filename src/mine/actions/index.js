@@ -18,3 +18,9 @@ export const clearItems = () => {
 		type: "CLEAR"
 	}
 }
+
+export const saveItems = () => {
+	return {
+		type: "SAVE"
+	}
+}
