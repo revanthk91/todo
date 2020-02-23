@@ -1,9 +1,11 @@
 /*Mostly Try to have css indivudally Component wise*/
-* {
-	font-family: 'roboto';
-	font-size: 105%;
+.container {
+	font-family: 'Montserrat', sans-serif;
 }
 
+* {
+	text-align: center;
+}
 
 li:hover {
 	color: black;
